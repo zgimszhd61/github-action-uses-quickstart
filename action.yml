@@ -1,0 +1,6 @@
+steps:
+  - name: Checkout
+    uses: actions/checkout@v2
+
+  - name: Run My Custom Action
+    uses: zgimszhd61/github-action-uses-quickstart@v1
